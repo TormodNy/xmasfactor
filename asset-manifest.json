@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xmasfactor/static/css/main.b9dd544e.chunk.css",
+    "main.js": "/xmasfactor/static/js/main.fcf79864.chunk.js",
+    "main.js.map": "/xmasfactor/static/js/main.fcf79864.chunk.js.map",
+    "runtime-main.js": "/xmasfactor/static/js/runtime-main.6ba3c094.js",
+    "runtime-main.js.map": "/xmasfactor/static/js/runtime-main.6ba3c094.js.map",
+    "static/js/2.a7ea536b.chunk.js": "/xmasfactor/static/js/2.a7ea536b.chunk.js",
+    "static/js/2.a7ea536b.chunk.js.map": "/xmasfactor/static/js/2.a7ea536b.chunk.js.map",
+    "static/js/3.24d29c18.chunk.js": "/xmasfactor/static/js/3.24d29c18.chunk.js",
+    "static/js/3.24d29c18.chunk.js.map": "/xmasfactor/static/js/3.24d29c18.chunk.js.map",
+    "index.html": "/xmasfactor/index.html",
+    "static/css/main.b9dd544e.chunk.css.map": "/xmasfactor/static/css/main.b9dd544e.chunk.css.map",
+    "static/js/2.a7ea536b.chunk.js.LICENSE.txt": "/xmasfactor/static/js/2.a7ea536b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba3c094.js",
+    "static/js/2.a7ea536b.chunk.js",
+    "static/css/main.b9dd544e.chunk.css",
+    "static/js/main.fcf79864.chunk.js"
+  ]
+}
