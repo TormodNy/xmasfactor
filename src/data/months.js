@@ -19,7 +19,7 @@ export const dateSuffix = (dateNumber) => {
   const dateString = dateNumber.toString();
 
   let suffix = "th";
-  if (!(dateString.length >= 2 && dateString[dateString.length - 2] == "1")) {
+  if (!(dateString.length >= 2 && dateString[dateString.length - 2] === "1")) {
     switch (dateString[dateString.length - 1]) {
       case "1":
         suffix = "st";
@@ -30,6 +30,8 @@ export const dateSuffix = (dateNumber) => {
       case "3":
         suffix = "rd";
         break;
+      default:
+        suffix = "th";
     }
   }
 

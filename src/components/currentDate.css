@@ -1,0 +1,52 @@
+.container {
+  margin-top: 30px;
+}
+
+#todaysDoor {
+  color: #27233a;
+  font-size: 18pt;
+}
+
+.door {
+  border: 10px solid #d8e8e9;
+  border-radius: 10px;
+  width: 400px;
+  height: 400px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #27233a;
+}
+
+#closedDoor {
+  background-color: #ff4e47;
+  cursor: pointer;
+}
+
+#openedDoor {
+  background-color: #70a054;
+}
+
+#date {
+  font-size: 72pt;
+  font-weight: bold;
+  margin: 0;
+}
+
+#month {
+  font-weight: bold;
+  margin: 0;
+}
+
+#xmasFactor {
+  font-size: 72pt;
+  font-weight: bold;
+  margin: 0;
+}
+
+#xmasFactorHeading {
+  font-weight: bold;
+  margin: 0;
+}
